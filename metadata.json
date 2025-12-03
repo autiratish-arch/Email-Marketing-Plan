@@ -1,0 +1,5 @@
+{
+  "name": "FlowGen: Email Strategy Visualizer",
+  "description": "An interactive email marketing flow visualizer that uses Gemini to generate context-aware email content for various industries.",
+  "requestFramePermissions": []
+}
